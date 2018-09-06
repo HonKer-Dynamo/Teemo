@@ -1,7 +1,5 @@
 ## About teemo 
 
-项目地址：https://github.com/bit4woo/teemo
-
 域名收集及枚举工具
 
 提莫(teemo)是个侦察兵，域名的收集如同渗透和漏洞挖掘的侦察，故命名为提莫（Teemo）！
